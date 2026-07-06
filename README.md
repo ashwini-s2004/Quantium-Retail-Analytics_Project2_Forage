@@ -305,14 +305,29 @@ This project demonstrates practical experience in:
 This project was completed as part of the **Quantium Data Analytics Virtual Experience Program** delivered through **Forage**, providing hands-on experience with retail analytics, experimentation, and commercial insight generation. :contentReference[oaicite:2]{index=2}
 
 ---
+## 🏅 Certificate of Completion
+
+This project was completed as part of the **Quantium Data Analytics Virtual Experience Program** offered through **Forage**.
+
+📄 **Certificate**
+
+- **File:** `forage_DA_certificate.png`
+
+This virtual experience provided hands-on practice in:
+
+- Retail data analytics
+- Control store selection
+- Statistical hypothesis testing
+- Commercial insight generation
+- Business reporting
 
 # 👨‍💻 Author
 
-**Harshad**
+**Ashwini**
 
 B.Tech Information Technology
 
-Data Analytics | Machine Learning | Python | SQL | Power BI
+Data Analytics | Python | SQL | Power BI
 
 GitHub:
 https://github.com/ashwini-s2004
